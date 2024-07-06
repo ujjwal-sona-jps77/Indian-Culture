@@ -47,6 +47,13 @@ nav {
   margin-top: 3vw;
 }
 
+nav input {
+  border: none;
+  border-radius: 5px;
+  width: 10vw;
+  padding: .5vw .7vw;
+}
+
 nav img {
   width: 5.7vw;
   height: 11vh;
