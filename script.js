@@ -136,8 +136,7 @@ gsap.from("#about_pp", {
     scroller: "body",
     start: "top 9%",
     end: "top 12%",
-    scrub: 2,
-    markers: true,
+    scrub: 2
   },
   delay: 1,
 });
