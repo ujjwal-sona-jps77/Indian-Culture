@@ -20,7 +20,7 @@
 
 @font-face {
   font-family: kanta;
-  src: url(./Kanit-Regular.woff2;)
+  src: url(./Kanit-Regular.woff2;);
 }
 
 /* * {
@@ -51,7 +51,7 @@ nav input {
   border: none;
   border-radius: 5px;
   width: 10vw;
-  padding: .5vw .7vw;
+  padding: 0.5vw 0.7vw;
 }
 
 nav img {
