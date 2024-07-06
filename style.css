@@ -1,26 +1,26 @@
 @font-face {
   font-family: play;
-  src: url(./PlaywriteUSTrad-VariableFont_wght.ttf);
+  src: url(./PlaywriteUSTrad-VariableFont_wght.woff2);
 }
 
 @font-face {
   font-family: ralebold;
-  src: url(./Raleway-Bold.ttf);
+  src: url(./Raleway-Bold.woff2);
 }
 
 @font-face {
   font-family: rale;
-  src: url(./Raleway-Thin.ttf);
+  src: url(./Raleway-Thin.woff2);
 }
 
 @font-face {
   font-family: rob;
-  src: url(./Roboto-Bold.ttf);
+  src: url(./Roboto-Bold.woff2);
 }
 
 @font-face {
   font-family: kanta;
-  src: url(./Kanit-Regular.ttf);
+  src: url(./Kanit-Regular.twoff2;)
 }
 
 /* * {
