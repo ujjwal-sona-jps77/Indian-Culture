@@ -1,4 +1,4 @@
-!Header](./banner.png)
+![logo](./banner.png)
 
 <h1 align="center">Hi 👋, I'm Ujjwal Sonawat</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
