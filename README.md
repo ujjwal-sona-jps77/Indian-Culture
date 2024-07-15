@@ -8,15 +8,15 @@
 </p>
 
 # Description
-the best website to knowing about the animals like:-
+the best website to knowing about the Indian Culture like:-
 
-1.mammals
+1.The Great Indian Cities
 
-2.reptiless
+2.Heritage Sites of India
 
-3.amphibians
+3.About Food and Traditions 
 
-and many more... note that is iste is in underconstruction and not completed yet thanks..
+and many more... note that it is made for an Competition (Only Landing page ) 
 
 
 
