@@ -1,14 +1,14 @@
 <h1 align="center"><u>Indian Culture</u></h1>
 
 ![Generate beautiful Repository Readme](./banner.png)
-<h2 align="center"> I Ujjwal . This Website Made by Me . </h2>
+<h2 align="center"> I Ujjwal . This Website Made by Me . Class IX , School JPS , NAVI MUMBAI </h2>
 
 <p align="center">
 <br>
 </p>
 
 # Description
-the best website to knowing about the Indian Culture like:-
+The best website to know about the Indian Culture like :-
 
 1.The Great Indian Cities
 
@@ -16,7 +16,7 @@ the best website to knowing about the Indian Culture like:-
 
 3.About Food and Traditions 
 
-and many more... note that it is made for an Competition (Only Landing page ) 
+and many more... note that it is made for a Competition (Only Landing page ) 
 
 
 
