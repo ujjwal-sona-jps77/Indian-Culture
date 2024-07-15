@@ -1,4 +1,4 @@
-<h1 align="center"><u>Animals biogrphy</u></h1>
+<h1 align="center"><u>Indian Culture</u></h1>
 
 ![Generate beautiful Repository Readme](./banner.png)
 <h2 align="center"> I Ujjwal . This Website Made by Me . </h2>
