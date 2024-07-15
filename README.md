@@ -1,27 +1,36 @@
-![logo](./banner.png)
+<h1 align="center"><u>Animals biogrphy</u></h1>
 
-<h1 align="center">Hi 👋, I'm Ujjwal Sonawat</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+![Generate beautiful Repository Readme](https://blog.readme.com/content/images/2020/05/banner-owlbert-office-group.jpg)
+<h2 align="center"> I am also a ullu among them who is self dedicated to his work </h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=not-ujjwal777&label=Profile%20views&color=0e75b6&style=flat" alt="not-ujjwal777" /> </p>
-
-- 🔭 I’m currently working on [A Comeptition In my School](indian-culture-ujjwal.netlify.app)
-
-- 🌱 I’m currently learning **Java**
-
-- 💬 Ask me about **HTML , CSS , JS , PYTHON , NODE JS , GSAP , LOCOMOTIVE , MONGO DB , ETC**
-
-- 📫 How to reach me **ujjwalsonawat7@gmail.com**
-
-- ⚡ Fun fact **I think I am a good Coder**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+<br>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+# Description
+the best website to knowing about the animals like:-
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=not-ujjwal777&show_icons=true&locale=en&layout=compact" alt="not-ujjwal777" /></p>
+1.mammals
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=not-ujjwal777&show_icons=true&locale=en" alt="not-ujjwal777" /></p>
+2.reptiless
+
+3.amphibians
+
+and many more... note that is iste is in underconstruction and not completed yet thanks..
+
+
+
+## Contributing
+
+If you'd like to contribute to this project, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature/new-feature`.
+3. Implement your changes.
+4. Commit your changes: `git commit -m 'Add new feature'`.
+5. Push to the branch: `git push origin feature/new-feature`.
+6. Submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
