@@ -1,6 +1,6 @@
 <h1 align="center"><u>Indian Culture</u></h1>
 
-![Generate beautiful Repository Readme](./banner.png)
+![Generate beautiful Repository Readme](./banner_.png)
 <h2 align="center"> I Ujjwal . This Website Made by Me . Class IX , School JPS , NAVI MUMBAI </h2>
 
 <p align="center">
