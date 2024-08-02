@@ -30,7 +30,7 @@ Shery.textAnimate(".page1 .top h1" /* Element to target.*/, {
   duration: 1,
   ease: "cubic-bezier(0.23, 1, 0.320, 1)",
   multiplier: 0.1,
-});
+}); // This is Animation is not visible because of Loading Animation
 
 Shery.textAnimate("#locate" /* Element to target.*/, {
   //Parameters are optional.
