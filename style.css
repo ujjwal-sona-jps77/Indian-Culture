@@ -241,7 +241,8 @@ video {
 
 #city {
   color: white;
-  margin-top: 20vh;
+  /* margin-top: 15vh; */
+  margin-bottom: 2vw;
   text-align: center;
   font-family: rale;
   font-size: 2.5vw;
@@ -251,6 +252,7 @@ video {
   color: #ffffffa4;
   font-family: rale;
   font-weight: 400;
+  font-size: 1vw;
   text-align: center;
 }
 
@@ -353,6 +355,7 @@ video {
   font-size: 1.7vw;
   font-weight: 900;
   font-family: ralebold;
+  margin-bottom: 2vw;
 }
 
 .page_in p {
@@ -619,4 +622,5 @@ footer {
 #em {
   font-family: ralebold;
   font-size: 1.3vw;
+
 }
