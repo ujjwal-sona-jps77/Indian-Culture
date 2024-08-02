@@ -79,6 +79,7 @@ video {
 
 .main {
   position: relative;
+  overflow: hidden;
   /* background-color: #00000028; */
 }
 
@@ -324,9 +325,6 @@ video {
   color: #fff;
   font-family: ralebold;
   font-weight: 700;
-  position: relative;
-
-  /* top: 100%; */
 }
 
 .page4 {
