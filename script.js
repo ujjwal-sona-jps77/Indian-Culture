@@ -123,8 +123,6 @@ Shery.textAnimate(".box_in h1" /* Element to target.*/, {
 });
 
 Shery.hoverWithMediaCircle("nav h1" /* Element to target.*/, {
-  images: ["image1.jpg", "image2.jpg", "image3.jpg"] /*OR*/,
-  //videos: ["video1.mp4", "video2.mp4"],
 });
 
 gsap.from("#about_pp", {
