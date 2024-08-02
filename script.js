@@ -22,25 +22,15 @@ Shery.mouseFollower({
   duration: 1,
 });
 
-Shery.textAnimate(".page1 .top h1" /* Element to target.*/, {
-  //Parameters are optional.
-  style: 1,
-  y: 10,
-  delay: 0.2,
-  duration: 1,
-  ease: "cubic-bezier(0.23, 1, 0.320, 1)",
-  multiplier: 0.1,
-}); // This is Animation is not visible because of Loading Animation
-
-Shery.textAnimate("#locate" /* Element to target.*/, {
-  //Parameters are optional.
-  style: 2,
-  y: 10,
-  delay: 0.1,
-  duration: 1.5,
-  ease: "cubic-bezier(0.23, 1, 0.320, 1)",
-  multiplier: 0.1,
-});
+// Shery.textAnimate(".page1 .top h1" /* Element to target.*/, {
+//   //Parameters are optional.
+//   style: 1,
+//   y: 10,
+//   delay: 0.2,
+//   duration: 1,
+//   ease: "cubic-bezier(0.23, 1, 0.320, 1)",
+//   multiplier: 0.1,
+// });
 
 // Shery.textAnimate("#about_pp" /* Element to target.*/, {
 //   //Parameters are optional.
@@ -63,6 +53,19 @@ setTimeout(function () {
   loader.style.top = "-100%";
 }, 4200);
 
+function textanimate() {
+  setTimeout(function () {
+    Shery.textAnimate(".page1 .top h1" , {
+      style: 1,
+      y: 10,
+      delay: 0.2,
+      duration: 1,
+      ease: "cubic-bezier(0.23, 1, 0.320, 1)",
+      multiplier: 0.1,
+    });
+  }, 5200);
+}
+
 Shery.imageMasker("#map" /* Element to target.*/, {
   //Parameters are optional.
   mouseFollower: true,
@@ -71,18 +74,18 @@ Shery.imageMasker("#map" /* Element to target.*/, {
   duration: 1,
 });
 
-Shery.textAnimate(".box_in h1" /* Element to target.*/, {
-  //Parameters are optional.
-  style: 2,
-  y: 10,
-  delay: 0.1,
-  duration: 1,
-  ease: "cubic-bezier(0.23, 1, 0.320, 1)",
-  multiplier: 0.1,
-});
+// Shery.textAnimate(".box_in h1" /* Element to target.*/, {
+//   //Parameters are optional.
+//   style: 2,
+//   y: 10,
+//   delay: 0.1,
+//   duration: 1,
+//   ease: "cubic-bezier(0.23, 1, 0.320, 1)",
+//   multiplier: 0.1,
+// });
 
 Shery.hoverWithMediaCircle("nav h1" /* Element to target.*/, {
-    images: ["image1.jpg", "image2.jpg", "image3.jpg"] /*OR*/,
+  images: ["image1.jpg", "image2.jpg", "image3.jpg"] /*OR*/,
   //videos: ["video1.mp4", "video2.mp4"],
 });
 
@@ -95,7 +98,7 @@ gsap.from("#about_pp", {
     scroller: "body",
     start: "top 9%",
     end: "top 12%",
-    scrub: 2
+    scrub: 2,
   },
   delay: 1,
 });
