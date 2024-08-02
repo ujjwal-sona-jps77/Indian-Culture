@@ -16,37 +16,11 @@ gsap.to(".main", {
 });
 
 Shery.mouseFollower({
-  //Parameters are optional.
   skew: true,
   ease: "cubic-bezier(0.23, 1, 0.320, 1)",
   duration: 1,
 });
 
-// Shery.textAnimate(".page1 .top h1" /* Element to target.*/, {
-//   //Parameters are optional.
-//   style: 1,
-//   y: 10,
-//   delay: 0.2,
-//   duration: 1,
-//   ease: "cubic-bezier(0.23, 1, 0.320, 1)",
-//   multiplier: 0.1,
-// });
-
-// Shery.textAnimate("#about_pp" /* Element to target.*/, {
-//   //Parameters are optional.
-//   style: 1,
-//   y: 10,
-//   delay: 0.1,
-//   duration: 1,
-//   ease: "cubic-bezier(0.23, 1, 0.320, 1)",
-//   multiplier: 0.1,
-// });
-
-// Shery.makeMagnet("#map" /* Element to target.*/, {
-//   //Parameters are optional.
-//   ease: "cubic-bezier(0.23, 1, 0.320, 1)",
-//   duration: 1,
-// });
 
 var loader = document.querySelector("#loader");
 setTimeout(function () {
@@ -66,27 +40,15 @@ function textanimate() {
   }, 5200);
 }
 
-Shery.imageMasker("#map" /* Element to target.*/, {
-  //Parameters are optional.
+Shery.imageMasker("#map", {
   mouseFollower: true,
   text: "Map",
   ease: "cubic-bezier(0.23, 1, 0.320, 1)",
   duration: 1,
 });
 
-// Shery.textAnimate(".box_in h1" /* Element to target.*/, {
-//   //Parameters are optional.
-//   style: 2,
-//   y: 10,
-//   delay: 0.1,
-//   duration: 1,
-//   ease: "cubic-bezier(0.23, 1, 0.320, 1)",
-//   multiplier: 0.1,
-// });
-
-Shery.hoverWithMediaCircle("nav h1" /* Element to target.*/, {
-  images: ["image1.jpg", "image2.jpg", "image3.jpg"] /*OR*/,
-  //videos: ["video1.mp4", "video2.mp4"],
+Shery.hoverWithMediaCircle("nav h1" , {
+  images: ["image1.jpg", "image2.jpg", "image3.jpg"]
 });
 
 gsap.from("#about_pp", {
@@ -99,6 +61,5 @@ gsap.from("#about_pp", {
     start: "top 9%",
     end: "top 12%",
     scrub: 2,
-  },
-  delay: 1,
+  }
 });
